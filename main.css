@@ -16,11 +16,13 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	float: left;
+	position: relative;
+	width:30%;
 }
 
 footer {
-
+	width: 50%;
 }
 
 header {
@@ -32,15 +34,21 @@ img {
 }
 
 main {
-
+	float: left;
+	position: relative;
+	width:50%;
 }
 
 nav {
+	float: left;
+	position: relative;
+	width:15%;
 
 }
 
 #copyright {
 	font-size: 80%;
+
 }
 
 #main-container {
